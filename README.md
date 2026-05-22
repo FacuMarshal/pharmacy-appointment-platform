@@ -15,6 +15,11 @@ The system automates:
 - Google Sheets synchronization
 - WhatsApp communication workflows
 
+## Screenshots
+
+### Website Interface
+![Homepage](homepage.png)
+
 ---
 
 ## Features
