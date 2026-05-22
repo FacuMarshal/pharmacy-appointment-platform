@@ -23,6 +23,9 @@ The system automates:
 ### Automation Workflow
 ![Workflow](automation-workflow.png)
 
+### Data Management
+![Database](google-sheets-database.png)
+
 ---
 
 ## Features
