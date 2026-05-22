@@ -20,6 +20,9 @@ The system automates:
 ### Website Interface
 ![Homepage](homepage.png)
 
+### Automation Workflow
+![Workflow](automation-workflow.png)
+
 ---
 
 ## Features
