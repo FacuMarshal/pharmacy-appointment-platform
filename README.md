@@ -26,6 +26,8 @@ The system automates:
 ### Data Management
 ![Database](google-sheets-database.png)
 
+### WordPress Management
+![WordPress Admin](wordpress-admin-fields.png)
 ---
 
 ## Features
